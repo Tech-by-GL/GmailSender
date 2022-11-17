@@ -1,3 +1,3 @@
-module github.com/Tech-by-GL
+module github.com/Tech-by-GL/GmailSender
 
 go 1.18
