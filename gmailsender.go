@@ -1,4 +1,4 @@
-package main
+package gmailsender
 
 import (
 	"net/smtp"
